@@ -14,5 +14,6 @@ function watch() {
 }
 
 // Definir as tasks como padrão
+exports.default = gulp.series(styles)
 exports.styles = styles;
 exports.watch = watch;
