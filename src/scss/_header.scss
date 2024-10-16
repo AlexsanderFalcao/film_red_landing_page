@@ -1,0 +1,15 @@
+header {
+    background: url('../images/one-piece-red-poster.jpg') no-repeat center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+
+    h1 {
+        font-size: 4rem;
+        text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+    }
+}
