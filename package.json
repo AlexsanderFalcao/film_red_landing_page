@@ -13,9 +13,10 @@
     "express": "^4.21.1"
   },
   "devDependencies": {
-    "gulp": "^5.0.0",
+    "gulp": "^4.0.2",
     "gulp-cli": "^3.0.0",
     "gulp-sass": "^5.1.0",
+    "imagemin": "^7.0.1",
     "sass": "^1.79.5"
   }
 }
